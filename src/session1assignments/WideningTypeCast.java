@@ -41,7 +41,5 @@ public class WideningTypeCast
 		
 		double_val = long_val + float_val; // Calculates the sum of long and float value and stores it as double type
 		System.out.println("The double sum of long and float value is: " + double_val); // Prints the double value
-
 	} // main method closed
-
 } // Class closed
