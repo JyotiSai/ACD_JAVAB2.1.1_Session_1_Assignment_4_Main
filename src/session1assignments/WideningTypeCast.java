@@ -1,7 +1,6 @@
 package session1assignments;
 
 import java.util.Scanner; //Imports Scanner class to read inputs from the keyboard
-
 /**
  * This class shows the implementation of widening typecast between different
  * variables.
