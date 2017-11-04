@@ -23,10 +23,10 @@ public class WideningTypeCast
 		Scanner readvalues = new Scanner(System.in); // To read the inputs using Scanner object readvalues
 		
 		System.out.println("Enter the byte value to be added"); // Prompts the user to input a value of type byte
-		byte_val = readvalues.nextByte(); // Reads the input byte value
+		byte_val = readvalues.nextByte(); // Reads the input byte value and initializes byte variable
 		
 		System.out.println("Enter the short value to be added"); // Prompts the user to input a value of type short
-		short_val = readvalues.nextShort(); // Reads the input short value
+		short_val = readvalues.nextShort(); // Reads the input short value and initializes short variable
 		
 		readvalues.close(); // Scanner object readvalues closed
 		
