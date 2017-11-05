@@ -1,4 +1,4 @@
-package session1assignments; // package is declared
+package session1assignments; // Declaration of package
 
 import java.util.Scanner; //Imports Scanner class to read inputs from the keyboard
 /**
